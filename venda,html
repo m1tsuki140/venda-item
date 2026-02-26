@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja de Brainrot Neon</title>
+    <link rel="stylesheet" href="bonito.css">
+</head>
+<body>
+    <div class="container">
+        <h1>BRAINROT NEON STORE 🔥🧠💀</h1>
+        
+        <div class="tabs">
+            <div class="tab-button active" data-tab="brainrot1">Brainrot 1</div>
+            <div class="tab-button" data-tab="brainrot2">Brainrot 2</div>
+            <div class="tab-button" data-tab="brainrot3">Brainrot 3</div>
+            <div class="tab-button" data-tab="brainrot4">Brainrot 4</div>
+            <div class="tab-button" data-tab="brainrot5">Brainrot 5</div>
+            <div class="tab-button" data-tab="brainrot6">Brainrot 6</div>
+            <div class="tab-button" data-tab="brainrot7">Brainrot 7</div>
+            <div class="tab-button" data-tab="brainrot8">Brainrot 8</div>
+            <div class="tab-button" data-tab="brainrot9">Brainrot 9</div>
+            <div class="tab-button" data-tab="contato">Contato</div>
+        </div>
+        
+        <div class="tab-content active" id="brainrot1">
+            <h2>Brainrot Básico</h2>
+            <div class="product-list">
+                <div class="product">
+                    <img src="https://wallpapers-clan.com/wp-content/uploads/2024/03/skibidi-toilet-titan-speakerman-meme-desktop-wallpaper-cover.jpg" alt="Skibidi Titan">
+                    <h3>la jolly grande (limitado que nao volta)</h3>
+                    <div class="price">R$ 170</div>
+                </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content" id="brainrot2">
+            
+            <div class="product-list">
+                <div class="product">
+                    <img src="https://media.craiyon.com/2025-05-02/2f0DgqpeTaS_cCRGSnXSnA.webp" alt="Skibidi Monster">
+                    <h3>bicicleteira chicleteira </h3>
+                    <div class="price">R$ 39,99</div>
+                    <p>EVENTO AMALDIÇOAOD,TACO 38.5M</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content" id="brainrot3">
+            <h2></h2>
+            <div class="product-list">
+                <div class="product">
+                    <img src="https://crd573fr6fjpt2tz.public.blob.vercel-storage.com/uploads/shapes/avatar/ryder-6ivh/467f6088-61e1-4e7c-97bb-184171340200-1_all_17106-DJWvZsBZ11Lnjh4yt3JerIFvXrK6CE.png" alt="Neon Rizzler">
+                    <h3>baccuru egguru</h3>
+                    <div class="price">R$ 59,99</div>
+                    <p>NORMAL,TACO 72M</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-content" id="brainrot4">
+            <h2></h2>
+            <div class="product-list">
+                <div class="product">
+                    <img src="https://crd573fr6fjpt2tz.public.blob.vercel-storage.com/uploads/shapes/avatar/ryder-6ivh/467f6088-61e1-4e7c-97bb-184171340200-1_all_17106-DJWvZsBZ11Lnjh4yt3JerIFvXrK6CE.png" alt="Neon Rizzler">
+                    <h3>LOS COMBINADOS</h3>
+                    <div class="price">R$ 59,99</div>
+                    <p>NORMAL 15M</p>
+                </div>
+            </div>
+        </div>
+        <div class="tab-content" id="brainrot5">
+            <h2>LA GRANDE COMBINAÇAO</h2>
+            <p>DIAMANTE 15M</p>
+        </div>
+
+        <div class="tab-content" id="brainrot6">
+            <h2>TICTAC SAHUR</h2>
+            <p>NORMAL,NYAN CAT,TAO 412.5M</p>
+        </div>
+
+        <div class="tab-content" id="brainrot7">
+            <h2>LOS 67</h2>
+            <p>GOLD,FOGO,BRASIL 251.1M</p>
+        </div>
+
+        <div class="tab-content" id="brainrot8">
+            <h2>LOS 25</h2>
+            <p>GOLD,TACO,FOGO,RENA 162.5M EVENTO RENA LIMITADO</p>
+        </div>
+
+        <div class="tab-content" id="brainrot9">
+            <h2>SANTA HOTSPOT</h2>
+            <p>RADIOATIVO 22.5M</p>
+        </div>
+          <div class="tab-content" id="brainrot10">
+            <h2>NAUGHT NAUGHT</h2>
+            <p>GALAXY 21M</p>
+        </div>
+        
+        <div class="tab-content" id="contato">
+            <h2>Informações de Contato</h2>
+            <div class="contact-info">
+                <p>Email: thiago2007henriqueanjos@gmail.com</p>
+                <p>WhatsApp: (55) 9 8868-8947</p>
+                <p>Discord: </p>
+                <p>horario de funcionamento:13 a 19</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="venda.js"></script>
+</body>
+</html>
